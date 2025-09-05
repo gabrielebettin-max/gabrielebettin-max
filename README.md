@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Minhas Skills
-
+<div>
 <code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
 <code><img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="illustrator logo" />
 <code><img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
@@ -14,6 +14,7 @@
 <code><img src="https://skillicons.dev/icons?i=aftereffects" height="50" alt="aftereffects logo"/>
 <code><img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
 <code><img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+</div>
  
 
 ---
